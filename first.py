@@ -10,6 +10,7 @@ message='success'
 is_valid=True
 result=None
 
+#new changes for github
 print(type(status_code))
 print(type(response_time))
 print(type(message))
